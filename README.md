@@ -6,6 +6,7 @@ Harmony search (HS) is a phenomenon-mimicking algorithm (also known as metaheuri
 
 [Overview of Harmony Search Algorithm](http://www.springer.com/cda/content/document/cda_downloaddocument/9783319083551-c2.pdf?SGWID=0-0-45-1469326-p176807580)
 
+### Block Diagram
 ![Block Diagram](http://i.imgur.com/iAbONBO.png)
 
 [Criticism](http://people.idsia.ch/~weyland/harmony_search.pdf)
