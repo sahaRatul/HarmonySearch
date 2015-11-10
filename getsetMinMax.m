@@ -1,4 +1,4 @@
-function[lowHM,highHM]=getsetMinMax(HM,HMS,NVAR)
+function[lowHM,highHM] = getsetMinMax(HM,HMS,NVAR)
     tempcol = zeros(1,HMS);
     lowHM = zeros(1,NVAR);
     highHM = zeros(1,NVAR);

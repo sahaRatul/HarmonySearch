@@ -1,4 +1,4 @@
-function[value]=fitness(params,index)
+function[value] = fitness(params,index)
     %%Add your functions in this file
     switch index
         case 1

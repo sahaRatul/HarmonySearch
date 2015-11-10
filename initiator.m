@@ -1,4 +1,4 @@
-function[HM]=initiator(HMS,NVAR,LOW,HIGH,INDEX)
+function[HM] = initiator(HMS,NVAR,LOW,HIGH,INDEX)
     
     %%DOCUMENTATION
     %
